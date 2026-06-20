@@ -1,0 +1,23 @@
+{
+  "products": [
+    { "id": 1, "name": "سكر 1كغم",       "barcode": "62001458", "buy": 5.0,  "sell": 6.5,  "qty": 3,  "min": 5,  "unit": "قطعة" },
+    { "id": 2, "name": "زيت 1.5لتر",     "barcode": "62001459", "buy": 18.0, "sell": 22.0, "qty": 5,  "min": 5,  "unit": "قطعة" },
+    { "id": 3, "name": "أرز بسمتي 5كغم", "barcode": "62001460", "buy": 30.0, "sell": 38.0, "qty": 24, "min": 8,  "unit": "قطعة" },
+    { "id": 4, "name": "شاي أحمر",       "barcode": "62001461", "buy": 8.0,  "sell": 11.0, "qty": 40, "min": 10, "unit": "قطعة" },
+    { "id": 5, "name": "طحين 1كغم",      "barcode": "62001462", "buy": 4.0,  "sell": 5.5,  "qty": 2,  "min": 6,  "unit": "قطعة" }
+  ],
+  "customers": [
+    { "id": 1, "name": "محمد العتيبي", "phone": "0500000001", "debt": 0 },
+    { "id": 2, "name": "سارة الأحمد",  "phone": "0500000002", "debt": 350 },
+    { "id": 3, "name": "متجر النور",   "phone": "0500000003", "debt": 1200 }
+  ],
+  "suppliers": [
+    { "id": 1, "name": "شركة الوفاء للتوزيع",     "phone": "0550000001", "debt": 3100 },
+    { "id": 2, "name": "مؤسسة الأمانة التجارية", "phone": "0550000002", "debt": 0 }
+  ],
+  "salesInvoices": [],
+  "purchaseInvoices": [],
+  "payments": [],
+  "stockMovements": [],
+  "counters": { "salesInvoice": 1044, "purchaseInvoice": 2001, "payment": 1 }
+}
